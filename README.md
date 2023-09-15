@@ -10,9 +10,9 @@ This repository contains the code and resources for preprocessing video data and
 
 
 ## **Notebooks**
-- `01data_preprocessing/`: everything regarding video data preprocessing from extracting video frames to saving the labels and video frames.
-- `01data_Augmentation/`: steps to perform data augmentation for frames (and labels in case of rotation) this step is taken to enhance the results of YOLOv7
-- `model_finetuning/`: Code for fine-tuning YOLO models.
+- 01 data_preprocessing: everything regarding video data preprocessing from extracting video frames to saving the labels and video frames.
+- 02 data_Augmentation: steps to perform data augmentation for frames (and labels in case of rotation) this step is taken to enhance the results of YOLOv7
+- 03 model_finetuning: Code for fine-tuning YOLO model.
 
 ## **Integration with Bigger Project**
 
