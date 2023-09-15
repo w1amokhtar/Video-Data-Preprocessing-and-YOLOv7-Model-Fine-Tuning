@@ -23,6 +23,6 @@ check the video listed above to watch the demo of that project :star2:  :video_c
 
 ## **Acknowledgments**
 I would like to acknowledge the YOLO project and the contributors to various open-source libraries and video dataset that made this project possible.
-Also, huge cknowledgment and credit to the team members who worked on the Abnormal Behavior detection project
+Also, huge aknowledgment and credit to the team members who worked on the Abnormal Behavior detection project :raised_hands: :innocent:
 
 
